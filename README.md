@@ -1,4 +1,4 @@
-# AIG_Claims_Analyst # 
+# AIG_Claims_Analyst 
 
 AIG Underwriting Virtual Job Simulation through Forage! This hands-on experience gave me a deeper understanding of what a career in insurance underwriting looks like- combining analytical thinking, commercial awareness and relationship-building skills. 
 
